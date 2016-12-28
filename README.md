@@ -1,5 +1,7 @@
 # Razor
 
+[![](https://jitpack.io/v/xjh1994/Razor.svg)](https://jitpack.io/#xjh1994/Razor)
+
 Cobub Razor Android SDK
 
 To get a **Razor** into your build:
